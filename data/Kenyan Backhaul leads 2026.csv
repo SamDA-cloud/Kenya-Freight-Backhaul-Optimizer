@@ -1,0 +1,51 @@
+lead_id,cargo_type,pickup_city,dropoff_city,weight_tonnes,offered_pay_kes
+1,Maize,Nakuru,Nairobi,6,46386
+2,Empty Bottles,Thika,Nairobi,28,78067
+3,Empty Bottles,Mombasa,Nairobi,17,69376
+4,Empty Bottles,Kisumu,Nairobi,10,65587
+5,Cement,Mombasa,Nairobi,9,56976
+6,Wheat,Thika,Nairobi,29,59051
+7,Cement,Eldoret,Nairobi,5,22048
+8,Wheat,Eldoret,Nairobi,25,59001
+9,Empty Bottles,Eldoret,Nairobi,26,32941
+10,Empty Bottles,Thika,Nairobi,25,65375
+11,Cement,Eldoret,Nairobi,10,62533
+12,Cement,Nakuru,Nairobi,10,21828
+13,Wheat,Kisumu,Nairobi,27,21917
+14,Fertilizer,Mombasa,Nairobi,20,40618
+15,Wheat,Mombasa,Nairobi,8,52254
+16,Cement,Thika,Nairobi,15,59756
+17,Flour,Eldoret,Nairobi,28,71178
+18,Cement,Eldoret,Nairobi,27,67362
+19,Flour,Nairobi,Nairobi,13,40128
+20,Maize,Kisumu,Nairobi,27,78245
+21,Cement,Nakuru,Nairobi,7,65745
+22,Maize,Mombasa,Nairobi,23,79383
+23,Fertilizer,Nairobi,Nairobi,12,20009
+24,Wheat,Nairobi,Nairobi,9,36644
+25,Flour,Thika,Nairobi,8,42422
+26,Wheat,Mombasa,Nairobi,28,29865
+27,Maize,Thika,Nairobi,10,22219
+28,Flour,Nakuru,Nairobi,6,59809
+29,Wheat,Nairobi,Nairobi,24,71212
+30,Cement,Nairobi,Nairobi,15,25287
+31,Empty Bottles,Kisumu,Nairobi,8,54387
+32,Maize,Nakuru,Nairobi,19,28512
+33,Wheat,Nairobi,Nairobi,10,21342
+34,Maize,Nakuru,Nairobi,26,63336
+35,Maize,Mombasa,Nairobi,21,39216
+36,Flour,Eldoret,Nairobi,28,71976
+37,Flour,Nairobi,Nairobi,10,71146
+38,Empty Bottles,Kisumu,Nairobi,23,47534
+39,Cement,Mombasa,Nairobi,29,34231
+40,Maize,Nakuru,Nairobi,6,52293
+41,Wheat,Thika,Nairobi,19,46614
+42,Fertilizer,Mombasa,Nairobi,15,56258
+43,Maize,Nairobi,Nairobi,12,48253
+44,Maize,Nakuru,Nairobi,23,62078
+45,Empty Bottles,Eldoret,Nairobi,17,60752
+46,Cement,Mombasa,Nairobi,16,37988
+47,Fertilizer,Nairobi,Nairobi,9,51037
+48,Flour,Kisumu,Nairobi,10,32219
+49,Flour,Thika,Nairobi,26,20235
+50,Wheat,Nakuru,Nairobi,8,62929
